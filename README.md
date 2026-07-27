@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Administering and Orchestrating Next-Gen Statistical Environments for AI and Open Source Enabled Infrastructure for Regulated Use Cases
 ================
 
 ### posit::conf(2026)
@@ -7,7 +7,7 @@ by INSTRUCTOR_NAME
 
 -----
 
-INSTRUCTIONS FOR INSTRUCTORS: Please insert information about your workshop below. Then, add workshop content in the materials folder and link to each session’s materials from the schedule below. You are welcomed to add more rows to the schedule. We just ask that you take breaks at the specified times. Once you are done adding information, you can remove these instructions from the README.
+INSTRUCTIONS FOR INSTRUCTORS: Please insert information about your workshop below. Then, add workshop content in the materials folder and link to each session’s materials from the schedule below. You are welcome to add more rows to the schedule. We just ask that you take breaks at the specified times. Once you are done adding information, you can remove these instructions from the README.
 
 Alternatively, you can completely redo the organization of this repo  as a Quarto website or some other format you prefer to host your workshop materials. The only requirement is that your workshop materials are hosted here.
 
@@ -22,11 +22,11 @@ Alternatively, you can completely redo the organization of this repo  as a Quart
 
 ## Description
 
-ADD WORKSHOP DESCRIPTION.
+This workshop will explore practical approaches to building reproducible, well-governed R environments for regulated pharmaceutical work. We will discuss package management, risk-based package validation, deployment options such as containers and managed platforms, and the controls needed to support traceability, change management, and production readiness. Through interactive discussion, participants will consider what a minimum viable approach looks like for administering R environments across research, development, and GxP use cases. We’ll also look at the impact of AI on regulated environments.
 
 ## Setup
 
-ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO COMPLETE PRIOR TO THE WORKSHOP. THIS COULD BE A LINK TO A THREAD ON POSIT COMMUNITY, PACKAGE INSTALL INSTRUCTIONS, HOW TO GET AN POSIT CLOUD ACCOUNT, ETC.
+ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO COMPLETE PRIOR TO THE WORKSHOP. THIS COULD BE A LINK TO A THREAD ON POSIT COMMUNITY, PACKAGE INSTALL INSTRUCTIONS, HOW TO GET A POSIT CLOUD ACCOUNT, ETC.
 
 ## Schedule
 
